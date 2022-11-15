@@ -55,7 +55,6 @@ func_category() {
 func_category Additional-distro-specific
 
 list=(
-hardcode-fixer-git
 plank
 )
 
